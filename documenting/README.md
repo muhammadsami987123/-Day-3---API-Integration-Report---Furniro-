@@ -89,15 +89,6 @@ async function importProducts(): Promise<void> {
 ![Product Details Page](./18.01.2025_11.24.11_REC.png)
 ![Sanity CMS Dashboard](./18.01.2025_11.25.43_REC.png)
 
-### Instructions to Run the Project
-1. Clone the repository.
-2. Set up environment variables as per the `.env.example` file.
-3. Run `npm install` to install dependencies.
-4. Start the development server using `npm run dev`.
-5. Access the platform on `http://localhost:3000`.
 
-### Deployment
-The project has been deployed on Vercel and can be accessed [here](https://hackthone-two.vercel.app/).
 
-### Feedback and Suggestions
-Feel free to reach out for any feedback or suggestions. Let's build an exceptional e-commerce platform together!
+
